@@ -1,0 +1,3 @@
+# Optional only: rebuilding gene vectors from original co-expression pair inputs.
+# Not required for using a supplied, authorized 200-D Gene2Vec embedding file.
+gensim>=4.3,<5
